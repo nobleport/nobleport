@@ -1,7 +1,7 @@
 ### John Gardner 🦌
 
 I am a full stack software developer with a passion for React, Redux, Javascript, HTML, CSS, SASS, Ruby on Rails, Postgres and MongoDB.
-I especially enjoy bridging the gap between the frontend and the backend, efficiently sending data back and forth. 
+I especially enjoy bridging the gap between the frontend and the backend efficiently sending data back and forth. 
 <!--
 **nobleport/nobleport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
