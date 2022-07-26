@@ -4,7 +4,7 @@ I am a former High School Science teacher turned full stack software developer w
 
 ### Keep in touch with me here!
 
- - [LinkedIn](www.linkedin.com/in/john-gardner-320b4a20b)
+ - [LinkedIn](https://www.linkedin.com/in/john-gardner-320b4a20b)
  - [AngelList](https://angel.co/u/john-gardner-27)
 
 ## Check out a few of my projects
